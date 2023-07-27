@@ -44,6 +44,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'api',
     'blog',
+    'rest_framework',
+    'tastypie',
 ]
 
 MIDDLEWARE = [
